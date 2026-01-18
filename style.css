@@ -101,3 +101,25 @@ footer {
   color: #6b7280;
   font-size: 14px;
 }
+/* existing CSS upar rahegi */
+
+/* ================= CERTIFICATION STYLING ================= */
+
+.cert-list li {
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.cert-list a {
+  margin-left: 10px;
+  font-size: 14px;
+  color: #1e40af;
+  background: #ffedd5;
+  padding: 4px 10px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.cert-list a:hover {
+  background: #fed7aa;
+}
